@@ -2,8 +2,12 @@
 
 ## What it does
 
-AI Memory Coach is a Python program for saving memories, finding patterns, and reviewing lessons. It stores memories in a local file and can bring difficult lessons back sooner for extra practice.
+AI Memory Coach helps people save lessons, find patterns, and review difficult topics. It brings older lessons back when someone needs more practice.
 
 ## What I built
 
-I built the memory search, reflection tools, review timing, trend checks, and coaching responses. Start it with `python3 memery_coach.py`. It works locally and can use OpenAI when the user chooses to connect it.
+I built the memory search, review reminders, reflection tools, trend checks, and coaching responses. It works locally and can use an AI provider when the user chooses to connect one.
+
+## Link
+
+[Open the code](https://github.com/adeoluwa-4/cf-ai-memory-coach)
